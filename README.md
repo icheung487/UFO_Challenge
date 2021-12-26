@@ -15,7 +15,7 @@ For example, I entered the date, "1/10/2010", city "roswell", state "ca", countr
 ![image](https://github.com/icheung487/UFO_Challenge/blob/main/UFO_Filtered_image.png)
 
 
-# Summary: 
+# Summary: 
 Overall, all the information is listed on the webpage as expected.  However, a few drawbacks to this design is the overall user-experience. A user must know what they are looking for which limits some users who may not know the all the information.  The filters stops at shape and doesn't allow a user to filter by duration which may be important if they were looking to see any correlation of between different states or shapes. 
 
 My recommendation for further development:  
