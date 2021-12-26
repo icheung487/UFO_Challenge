@@ -1,6 +1,8 @@
 # UFO_Challenge
 
 # Sources 
+* Stylesheets are located [here](https://github.com/icheung487/UFO_Challenge/tree/main/static/css)
+* JavaScript files are located [here](https://github.com/icheung487/UFO_Challenge/tree/main/static/js)
 
 # Analysis
 The purpose of the analysis was to help Dana create a dynamic webpage to help display the data with a table, add filters in an html.  For table would help provide  more information to  about the different sighting locations.  Having the ability to filter would help people narrow down their own search of what they are looking for based on date, city, state, country and shape.
